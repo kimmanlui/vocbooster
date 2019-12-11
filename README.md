@@ -16,5 +16,8 @@
  
  # Installation and Setup
  
+ To be available
  
- # Vocbooster Operation
+ # Vocbooster Operations
+ 
+ To be available
