@@ -16,7 +16,13 @@
  
  # Installation and Setup
  
- To be available
+ [1] Install XAMPP
+ 
+ [2] Download and Unzip Vocbooster ; Put everything to the DocumentRoot of Apache
+ 
+ [3] Set up database login .\FLASH\inc\dbinfo.inc
+ 
+ [4] To be available
  
  # Vocbooster Operations
  
