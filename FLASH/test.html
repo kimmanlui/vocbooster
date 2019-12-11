@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<p>A function is triggered when the user is pressing a key in the input field.</p>
+<p id="p1">Hello World!</p>
+<input type="password" id='k1' onkeyup="myDisplay('k1', 'p1')">
+
+<script>
+function myDisplay(id, id2) {
+  var k=document.getElementById(id).value; 
+  document.getElementById(id2).innerHTML =k; 
+}
+</script>
+
+</body>
+</html>
