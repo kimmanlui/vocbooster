@@ -1,5 +1,0 @@
-replace, 替换
-endanger, 濒危
-crop yield, 粮食产量
-fruit flesh, 果肉
-ingredient, 原料/成分
