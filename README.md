@@ -4,7 +4,7 @@
  however, keeping track of the learning progress is cumbersome. 
  
  In 2019, I designed and developed VocBooster English word learning app to assist language teachers of UIC ACE in solving this problem. 
- The objective of building VocBooster is two-twofold. First, all teachers need to do is enter a list of plain English words that 
+ The objective of building VocBooster is twofold. First, all teachers need to do is enter a list of plain English words that 
  they would like their students to master this week. Then, VocBooster automatically generates different types of English exercises, 
  synthesizes audio sounds and produces progress reports. Second, without any installation, 
  students can use VocBooster to learn anywhere and at any time on their mobile phone. There are seven kinds of English exercises: 
