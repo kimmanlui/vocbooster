@@ -1,0 +1,5 @@
+replace,     NA
+endanger,    NA
+crop yield,  NA
+fruit flesh, NA
+ingredient,  NA
