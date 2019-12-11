@@ -1,0 +1,5 @@
+Exonerate, 開脫
+Subpoena-ok, 傳票
+Indictment, 起訴書
+Verdict, 判決書
+Conspire, 合謀
