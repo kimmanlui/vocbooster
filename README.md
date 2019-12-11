@@ -10,3 +10,6 @@
  students can use VocBooster to learn anywhere and at any time on their mobile phone. There are seven kinds of English exercises: 
  (a) Flashcard (b) Quiz (c) Three types of dictations (d) dictionary definition multiple-choice test and 
  (e) word usage multiple-choice test. VocBooster provides a ranking system (e.g.Top 10%, 20%, etc) to motivate students to learn more.
+
+
+ Note that Vocbooster adopts phpqrcode which was written by Dominik Dzienia. 
