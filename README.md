@@ -18,7 +18,7 @@
  
  [1] Install XAMPP
  
- [2] Download and Unzip Vocbooster ; Put everything to the DocumentRoot of Apache
+ [2] Download and Unzip Vocbooster ; Put everything underneath the DocumentRoot of Apache
  
  [3] Set up database login .\FLASH\inc\dbinfo.inc
  
