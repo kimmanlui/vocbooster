@@ -1,4 +1,4 @@
-# vocbooster
+# Vocbooster
  It is essential to learn English vocabulary words. Without sufficient vocabulary, everything else becomes a castle in the air. 
  Thus teachers would always like to monitor the progress of each student’s English vocabulary and to give appropriate help; 
  however, keeping track of the learning progress is cumbersome. 
@@ -13,3 +13,8 @@
 
 
  Note that Vocbooster adopts phpqrcode which was written by Dominik Dzienia. 
+ 
+ # Installation and Setup
+ 
+ 
+ # Vocbooster Operation
