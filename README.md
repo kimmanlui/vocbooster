@@ -20,11 +20,13 @@
  
  [2] Download and Unzip Vocbooster ; Put everything underneath the DocumentRoot of Apache
  
- [3] Set up database login information in .\vocbooster\FLASH\inc\dbinfo.inc
+ [3] Rename vocbooster-master as vocbooster
  
- [4] Set up domain name in .\vocbooster\FLASH\global_domain.php
+ [4] Set up database login information in .\vocbooster\FLASH\inc\dbinfo.inc
  
- [5] Import the database template
+ [5] Set up domain name in .\vocbooster\FLASH\global_domain.php
+ 
+ [6] Import the database template
  
  # Vocbooster Operations
  
