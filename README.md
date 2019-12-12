@@ -18,11 +18,11 @@
  
  [1] Install XAMPP
  
- [2] Download and Unzip Vocbooster ; Put everything underneath the DocumentRoot of Apache
+ [2] Download and unzip the system ; Put everything underneath the DocumentRoot of Apache
  
  [3] Rename vocbooster-master as vocbooster
  
- [4] Set up database login information in .\vocbooster\FLASH\inc\dbinfo.inc
+ [4] Set up MySQL database login information in .\vocbooster\FLASH\inc\dbinfo.inc
  
  [5] Set up domain name in .\vocbooster\FLASH\global_domain.php
  
