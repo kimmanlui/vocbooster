@@ -28,6 +28,6 @@
  
  [6] Import the database template
  
- # Vocbooster Operations
+ # Operations
  
  To be available
